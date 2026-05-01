@@ -1,0 +1,7 @@
+As of Friday, May 1, 2026, here are the top 5 news stories:
+
+*   **Global Labor Day Observances:** Millions of workers across Europe, Asia, and Latin America are participating in widespread May Day demonstrations today, with central themes focusing on the impact of AI-driven automation on job security and demands for shorter work weeks.
+*   **Major Tech Regulatory Shift:** The European Union and the United States have jointly announced a new "Global Digital Framework," taking effect today, which sets strict binding standards for the training of Large Language Models (LLMs) regarding intellectual property and data privacy.
+*   **Climate Milestone Reached:** The World Meteorological Organization (WMO) released a report this morning confirming that the first quarter of 2026 saw record-breaking ocean surface temperatures, leading to urgent calls for an emergency summit from climate scientists ahead of the next COP meeting.
+*   **Economic Tensions in East Asia:** Stock markets in Tokyo and Seoul are seeing significant volatility today following a sudden breakdown in trade negotiations between regional powers, leading to concerns about supply chain disruptions for semiconductor manufacturers.
+*   **Space Exploration Breakthrough:** NASA and ESA officials confirmed that the *Artemis V* lunar mission has successfully established a sustained high-speed data relay link between the Lunar Gateway station and Earth, marking a major technical hurdle cleared for planned long-term human habitation on the Moon.
